@@ -1,0 +1,16 @@
+gunicorn
+flask
+flask_cors
+numpy
+nltk
+igraph
+scikit-learn
+wtforms
+flask_wtf
+flask_login
+email_validator
+firebase_admin
+werkzeug
+rapidfuzz
+tiktoken
+openai
